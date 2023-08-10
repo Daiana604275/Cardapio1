@@ -1,0 +1,42 @@
+body,html {
+    /*
+    Todos os codigos comentados são novos que a senhora pediu pra inserir
+    margin: 0;
+    padding: 0;
+    box sizing: dontent-box;
+    background-color:; rosybrown;
+    */
+    top: auto;
+    margin:auto;
+    background-image: url(CARDAP/img/img5);
+    border:solid 10px black;
+}   
+#destaque {
+    
+    background-image: url(fundo-imagem-jpg.jpg);
+    color: black;
+    right: 500px;
+    background-color : darkgreen (152, 236, 152);
+    background-size: cover; 
+    color:black;
+    height: 300px;
+}
+
+.item{ 
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    border: 6px solid pink;
+    padding: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+     rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    
+}
+.produtos {
+    
+    border: 2px double rgb(209,188,160);
+    text-align: justify;
+    border: 2px solid;
+    border-style: double blue ;  
+    text-align: Justify;
+}
